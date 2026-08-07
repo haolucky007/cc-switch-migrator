@@ -115,7 +115,6 @@ cc-switch-migrator/
 - **GUI 框架**：CustomTkinter（基于 Tkinter 的现代化深色主题 UI 库）
 - **核心逻辑**：纯 Python 标准库（sqlite3、json、zipfile、shutil、os、ctypes 等）
 - **打包工具**：PyInstaller
-- **字体**：楷体（KaiTi），匹配 CC Switch 界面风格
 
 ## 常见问题
 
