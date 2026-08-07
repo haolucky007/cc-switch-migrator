@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+*.egg
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec.bak
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Sensitive data - NEVER commit these
+*.db
+*.sqlite
+*.sqlite3
+*.zip
+*.bak
+*credentials*
+*secret*
+*apikey*
+*api_key*
+*.pem
+*.key
+.env
+.env.local
+
+# CC Switch user data (contains API keys, login credentials, history)
+cc-switch.db
+settings.json
+database_export.json
+manifest.json
+migration-report.html
